@@ -1,0 +1,194 @@
+[
+  {
+    "pointSpawnDatas": [
+      {
+        "type": 1,
+        "monsterCount": 1
+      },
+      {
+        "type": 1,
+        "monsterCount": 1
+      },
+      {
+        "type": 2,
+        "monsterCount": 1
+      },
+      {
+        "type": 1,
+        "monsterCount": 1
+      },
+      {
+        "type": 2,
+        "monsterCount": 1
+      }
+    ]
+  },
+  {
+    "pointSpawnDatas": [
+      {
+        "type": 2,
+        "monsterCount": 1
+      },
+      {
+        "type": 2,
+        "monsterCount": 1
+      },
+      {
+        "type": 1,
+        "monsterCount": 1
+      },
+      {
+        "type": 2,
+        "monsterCount": 1
+      },
+      {
+        "type": 2,
+        "monsterCount": 1
+      }
+    ]
+  },
+  {
+    "pointSpawnDatas": [
+      {
+        "type": 3,
+        "monsterCount": 1
+      },
+      {
+        "type": 2,
+        "monsterCount": 1
+      },
+      {
+        "type": 2,
+        "monsterCount": 1
+      },
+      {
+        "type": 3,
+        "monsterCount": 1
+      },
+      {
+        "type": 2,
+        "monsterCount": 1
+      }
+    ]
+  },
+  {
+    "pointSpawnDatas": [
+      {
+        "type": 3,
+        "monsterCount": 1
+      },
+      {
+        "type": 2,
+        "monsterCount": 1
+      },
+      {
+        "type": 3,
+        "monsterCount": 1
+      },
+      {
+        "type": 2,
+        "monsterCount": 1
+      },
+      {
+        "type": 3,
+        "monsterCount": 1
+      }
+    ]
+  },
+  {
+    "pointSpawnDatas": [
+      {
+        "type": 3,
+        "monsterCount": 2
+      },
+      {
+        "type": 3,
+        "monsterCount": 2
+      },
+      {
+        "type": 1,
+        "monsterCount": 1
+      },
+      {
+        "type": 1,
+        "monsterCount": 2
+      },
+      {
+        "type": 1,
+        "monsterCount": 2
+      }
+    ]
+  },
+  {
+    "pointSpawnDatas": [
+      {
+        "type": 1,
+        "monsterCount": 1
+      },
+      {
+        "type": 2,
+        "monsterCount": 1
+      },
+      {
+        "type": 2,
+        "monsterCount": 2
+      },
+      {
+        "type": 3,
+        "monsterCount": 1
+      },
+      {
+        "type": 1,
+        "monsterCount": 1
+      }
+    ]
+  },
+  {
+    "pointSpawnDatas": [
+      {
+        "type": 2,
+        "monsterCount": 1
+      },
+      {
+        "type": 2,
+        "monsterCount": 1
+      },
+      {
+        "type": 3,
+        "monsterCount": 1
+      },
+      {
+        "type": 3,
+        "monsterCount": 1
+      },
+      {
+        "type": 3,
+        "monsterCount": 1
+      }
+    ]
+  },
+  {
+    "pointSpawnDatas": [
+      {
+        "type": 1,
+        "monsterCount": 1
+      },
+      {
+        "type": 3,
+        "monsterCount": 3
+      },
+      {
+        "type": 3,
+        "monsterCount": 2
+      },
+      {
+        "type": 3,
+        "monsterCount": 2
+      },
+      {
+        "type": 1,
+        "monsterCount": 1
+      }
+    ]
+  }
+]
